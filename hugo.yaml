@@ -1,7 +1,6 @@
 baseURL: "https://mohammed-rasoul.github.io/mr-portfolio/"
 languageCode: "en-us"
 title: "Mohammed Rasoul Portfolio"
-relativeURLs: "True"
 
 outputs:
   home:
