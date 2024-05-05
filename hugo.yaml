@@ -166,27 +166,27 @@ params:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
+        - "ServiceNow"
+        - "Python"
+        - "SQL"
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Graduate Technical Consultant"
+        company: "Eviden (Engage ESM)"
+        companyUrl: "https://eviden.com/"
+        date: "September 2023 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am currently discussing, developing and deploying solutions at a ServiceNow consultancy in London. My current project is with a top UK health insurer and is focused on Security Incident Response (SIR)."
 
       - job: "Software Developer"
         company: "Amazon"
